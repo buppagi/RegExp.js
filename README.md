@@ -3,7 +3,7 @@
 
 
 ## 설치방법
-+ [다운로드.zip](https://github.com/buppagi/RegExp/archive/master.zip) 또는 [Min 파일](https://raw.githubusercontent.com/buppagi/RegExp/master/minified/RegExp.min.js)을 받습니다.
++ [다운로드.zip](https://github.com/buppagi/RegExp.js/archive/master.zip) 또는 [Min 파일](https://raw.githubusercontent.com/buppagi/RegExp.js/master/minified/RegExp.min.js)을 받습니다.
 + `<head></head>`사이 또는 `<body>` 영역에 `<script src="RegExp.min.js"></script>` 삽입하시면 됩니다.
 
 
@@ -40,16 +40,16 @@
 ### Screenshot
 #### 기본
 - 포커스 전 [input=text]
-![form-input-text](https://raw.githubusercontent.com/buppagi/RegExp/master/images/form-input-text-default.PNG)
+![form-input-text](https://raw.githubusercontent.com/buppagi/RegExp.js/master/images/form-input-text-default.PNG)
 
 - 포커스아웃 후
-![form-default](https://raw.githubusercontent.com/buppagi/RegExp/master/images/form-default.PNG)
+![form-default](https://raw.githubusercontent.com/buppagi/RegExp.js/master/images/form-default.PNG)
 
 #### 이메일 / 생년월일
 - 이메일 포커 아웃 후
-![form-default-email](https://raw.githubusercontent.com/buppagi/RegExp/master/images/form-input-email.PNG)
+![form-default-email](https://raw.githubusercontent.com/buppagi/RegExp.js/master/images/form-input-email.PNG)
 - 생년월일 포커아웃 후
-![form-default-date](https://raw.githubusercontent.com/buppagi/RegExp/master/images/form-input-date.PNG)
+![form-default-date](https://raw.githubusercontent.com/buppagi/RegExp.js/master/images/form-input-date.PNG)
 
 ### 추가
 <p>이메일 또는 생년월일을 입력할 때 한글을 입력조차 안되게 하는 방법입니다.</p>
